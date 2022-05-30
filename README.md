@@ -1,7 +1,7 @@
 <h1> Hi! My name is Patrícia. </h1>
 
 
-- 🌱 Estudando React
+- 🌱 Estudando Typescript - Backend
 - 📫 Contate-me no email: patriciargquarezemin@gmail.com
 - 😄 Pronouns: ela/dela
 
