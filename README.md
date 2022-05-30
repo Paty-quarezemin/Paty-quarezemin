@@ -1,4 +1,4 @@
-# Oiiee! Sou a Patrícia Quarezemin e, estudante desenvolvedor Web Full Stack pela Labenu 👋
+# Hy!!! My name is Patrícia 👋
 
 - 🌱 Estudando React
 - 📫 Contate-me no email: patriciargquarezemin@gmail.com
