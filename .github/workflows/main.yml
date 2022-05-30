@@ -34,3 +34,10 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+          
+      # Snake Animation
+      - uses: Platane/snk@master
+      id: snake-gif
+      with:
+      github_user_name: Paty-quarezemin
+      svg_out_path: dist/github-contribution-grid-snake.svg
